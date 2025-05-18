@@ -1,7 +1,7 @@
 ---
 Type: Organizace
 cssclass: dashboard
-title: Title Screen
+title: Title Screen 2
 ---
 
 # [Lokace](Lokace.md)
