@@ -19,11 +19,10 @@ banner:
 ---
 
 # Thorson
+![[Thorson.png]]
 
 ### Popis:
-Thorson je 2 metrový mohutný muž který měl dlouhé hnědé vlasy a tetování run na hlavě a jeho dovednost je že umí ze všeho vymluvit. 
-![[Thorson.png]]
-Nosí oblečení z kůže zvířat a krásnou černo červenou hůl o kterou se opírá.
+Thorson je 2 metrový mohutný muž který měl dlouhé hnědé vlasy a tetování run na hlavě a jeho dovednost je že umí ze všeho vymluvit. Nosí oblečení z kůže zvířat a krásnou černo červenou hůl o kterou se opírá.
 
 ### Familiar Tre Hoder
 Obraz obri 3 hlave sovy kazda sova ma jinou barvu leva je cerna prostredni zlata a prava posledni krasne rude cervena jeji jmeno je Tre Hoder neboli tri hlavy.

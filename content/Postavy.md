@@ -1,6 +1,7 @@
 ---
 type: Organizace
 title: Postavy
+cssclass: dashboard
 tags: 
 banner: 
 ---

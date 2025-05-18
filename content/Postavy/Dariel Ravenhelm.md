@@ -19,6 +19,7 @@ banner:
 ---
 
 # Dariel Ravenhelm
+![[Dariel.png]]
 - Rasa: Na první pohled jasný humán
 - Výška: Přibližně 180 cm
 - Věk: Na první pohled přesáhl 30 let
@@ -26,8 +27,6 @@ banner:
 
 ### Popis:
 Bělovlasý muž, jehož oči mají modré duhovky a naprosto černé bělmo. Přes levé oko má jizvy od drápů, jejich původ je však neznámý. Většinu jeho tváře zahaluje maska, což pravděpodobně má svá opodstatnění  (Zakrývá Jeho hlavu od nosu dolů společně s krkem)
-
-![[Dariel.png]]
 
 Na sobě vždy nosí ošacení. které na první pohled nepatří mezi běžné. Nejběžněji však nosí modrý kabát se stříbrnými dekorativními prvky, přes ramena má tento kabát přišit kožich nějakého tvora, nejspíše vlka. Každý kus jeho šatstva má na sobě dobře viditelný emblém v podobě modrého havrana. Na rukou má téměř vždy černé rukavice.
 
