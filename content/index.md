@@ -18,8 +18,6 @@ title: Title Screen
 - [[Močály Beznaděje]]
 
 
-# Postavy
-- [[a]]
-- [[b]]
-- [[c]]
-
+# [Postavy](Assets/Templates/Postavy.md)
+- [[Dariel Ravenhelm]]
+- 
