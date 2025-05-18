@@ -18,8 +18,10 @@ banner:
 - [[Postavy/Tik'Ta]]
 - [[Postavy/Tomo]]
 - [[Postavy/Arden]]
-- [[Postavy/]]
-- [[Postavy/]]
+- 
+- [[Postavy/Sage]]
+- [[Postavy/Skardog]]
+- 
 - [[Postavy/]]
 - [[Postavy/]]
 - [[Postavy/]]

@@ -19,6 +19,8 @@ title: Title Screen
 
 
 # [[Postavy]]
+- [[Sage]]
+- [[Skardog]]
 - [[Dariel Ravenhelm]]
 - [[Thorson]]
 - [[Manon]]

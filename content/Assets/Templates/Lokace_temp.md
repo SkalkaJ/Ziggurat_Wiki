@@ -2,8 +2,10 @@
 type: lokace
 title: <% tp.file.title %>
 DM: 
-NPC:
+NPC: 
+  - x
 monstra:
+  - x
 tags:
 banner: 
 ---
