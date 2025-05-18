@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null
+    analytics: null,
     locale: "en-US",
     baseUrl: "skalkaj.github.io/Ziggurat_Wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
