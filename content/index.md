@@ -5,6 +5,7 @@ title: Title Screen
 ---
 
 # [[Lokace]]
+- [[Portálová spojení]]
 - [🩸Redwill](Redwill.md)
 	- [[Zápisy Výprav]]
 		- [[Cesta do Redwillu]]
