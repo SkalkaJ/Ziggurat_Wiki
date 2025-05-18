@@ -18,6 +18,6 @@ title: Title Screen
 - [[Močály Beznaděje]]
 
 
-# [Postavy_temp](Postavy_temp.md)
+# [Postavy](Postavy)
 - [[Dariel Ravenhelm]]
 - 
