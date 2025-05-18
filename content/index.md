@@ -4,7 +4,7 @@ cssclass: dashboard
 title: Title Screen
 ---
 
-# [Lokace](Lokace.md)
+# [Lokace](Lokace)
 - [🩸Redwill](Redwill.md)
 	- [[Zápisy Výprav]]
 		- [[1]]
@@ -18,6 +18,6 @@ title: Title Screen
 - [[Močály Beznaděje]]
 
 
-# [Postavy](Assets/Templates/Postavy.md)
+# [Postavy_temp](Postavy_temp.md)
 - [[Dariel Ravenhelm]]
 - 

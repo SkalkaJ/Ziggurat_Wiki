@@ -4,7 +4,7 @@ cssclass: dashboard
 title: Title Screen 2
 ---
 
-# [Lokace](Lokace.md)
+# [Lokace_temp](Lokace_temp.md)
 
 <a href="Redwill" class="grid-item type-1">
 <div class="icon">🩸</div>
