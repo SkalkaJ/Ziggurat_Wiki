@@ -5,7 +5,7 @@ title: Lokace
 tags: 
 banner: 
 ---
-# [[Lokace/Redwill | 🩸Redwill]]
+# [[Redwill | 🩸Redwill]]
 - [[Zápisy Výprav]]
 	- [[Cesta do Redwillu]]
 	- [[Welcome to Redwill]]
@@ -19,5 +19,5 @@ banner:
 	- [[Provoz teleportačního kruhu Redwill]]
 	- [[Výslech krvavé kněžky]]
 
-# [[Lokace/Agret | 💦Agret]]
+# [[Agret | 💦Agret]]
 - [[Zápisy Výprav]]
