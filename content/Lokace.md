@@ -13,6 +13,7 @@ banner:
 - [[NPCs]]
 - [[Monstra]]
 - [[Předměty]]
+	- [[Dýka Rudého stínu]]
 - [[Krvavý Kult]]
 - MISC zápisy
 	- [[Provoz teleportačního kruhu Redwill]]
