@@ -20,4 +20,6 @@ title: Title Screen
 
 # [[Postavy]]
 - [[Dariel Ravenhelm]]
-- 
+- [[Thorson]]
+- [[Manon]]
+- [[Arden]]

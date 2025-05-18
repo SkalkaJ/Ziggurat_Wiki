@@ -1,5 +1,5 @@
 ---
-type: 
+type: postava
 title: <% tp.file.title %>
 hráč: 
 na pevnosti: yes
@@ -9,6 +9,7 @@ level:
 race: 
 class: 
 práce: 
+pokoj: 
 předměty: 
 jazyky:
   - Common
@@ -18,3 +19,5 @@ banner:
 ---
 
 # <% tp.file.title %>
+
+### Popis:

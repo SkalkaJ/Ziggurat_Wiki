@@ -1,5 +1,5 @@
 ---
-type: 
+type: postava
 title: Dariel Ravenhelm
 hráč: darkknightczsk
 na pevnosti: yes
@@ -9,6 +9,7 @@ level: 1-5
 race: human
 class: wizard
 práce: kuchař
+pokoj: 
 předměty: 
 jazyky:
   - Common

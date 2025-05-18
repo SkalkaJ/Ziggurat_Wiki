@@ -1,5 +1,5 @@
 ---
-type: Lokace
+type: lokace
 title: <% tp.file.title %>
 DM: 
 NPC:
