@@ -6,9 +6,9 @@ tags:
 banner: 
 ---
 # Postavy
-- [[Postavy/Dariel Ravenhelm]]
-- [[Postavy/Thorson]]
-- [[Postavy/Manon]]
+- [[Dariel Ravenhelm]]
+- [[Thorson]]
+- [[Manon]]
 - [[Postavy/Khoth]]
 - [[Postavy/Ralex]]
 - [[Postavy/Boob]]
@@ -17,10 +17,10 @@ banner:
 - [[Postavy/Ancilla]]
 - [[Postavy/Tik'Ta]]
 - [[Postavy/Tomo]]
-- [[Postavy/Arden]]
+- [[Arden]]
 - 
-- [[Postavy/Sage]]
-- [[Postavy/Skardog]]
+- [[Sage]]
+- [[Skardog]]
 - 
 - [[Postavy/]]
 - [[Postavy/]]

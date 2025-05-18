@@ -1,6 +1,6 @@
 ---
 type: postava
-title: Untitled
+title: Sage
 hráč: 
 na pevnosti: no
 příchod: 00.00.3425
@@ -18,7 +18,7 @@ tags:
 banner: 
 ---
 
-# Untitled
+# Sage
 ![[Sage.png]]
 
 ### Popis:
