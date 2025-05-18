@@ -17,6 +17,7 @@ title: Title Screen
 		- [[From Grave to Dust]]
 		- [[Krve bude všude dost]]
 	- [[NPCs]]
+		- [[Aurélie]]
 	- [[Monstra]]
 	- [[Předměty]]
 		- [[Dýka Rudého stínu]]

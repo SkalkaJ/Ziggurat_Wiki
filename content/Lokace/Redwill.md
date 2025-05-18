@@ -52,6 +52,7 @@ banner:
 - v místě se ve sklepení nachází jejich pracovna
 - skupina se zde k dýce nedostala
 - byl zabit jeden z Veaselových stráží a jeho tělo bylo vzaté na Ziggurat
+
 ![[Relikvie  Rudého Stínu.png]]
 
 **Aukce na Helenské 24**
@@ -97,6 +98,7 @@ banner:
 **Rudý duch**
 - jak Daitho zmizel, kolem jedné z korun se zhmotnil rudý duch 
 - souboj byl nerovný a skupina se brzy musela dát na ústup
+
 ![[Cool_Redwill.png]] ![[Redwill.png]]
 
 ## [[Nemáte náhodou po kapsách trochu větší kuš?]]
@@ -162,7 +164,8 @@ banner:
 - Další z mocných upírů, co má vlastní klan.
 
 Podoba Syrhae:
-  ![[Syrhae.png]]
+
+![[Syrhae.png]]
 
 ## [[Krve bude všude dost]]
 - cílem výpravy byla infiltrace chrámu Loviatar a prozkoumání jejího podzemí a zabránění krvavým rituálům
