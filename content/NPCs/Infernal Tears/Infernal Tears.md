@@ -1,14 +1,16 @@
 ---
 type: NPC
 title: Infernal Tears
-DM: 
+DM: Xerius
 lokace: 
 tags: 
 banner: 
 ---
-lokace: [[Redwill]]
+Lokace: [[Redwill]]
 
 Popis: Skupina tieflingů, které bylo možné střetnout v Redwillu při rituálu: ⁠_unknown_ a pak při útoku Avernu na pevnost.
+
+![[Infernal Tears.png]]
 
 ![[Kyron]]
 

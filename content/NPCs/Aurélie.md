@@ -6,8 +6,7 @@ lokace: Redwill
 tags: 
 banner: 
 ---
-# Aurelie
-lokace: [[Redwill]]
+Lokace: [[Redwill]]
 
 Popis: Aurelie je dívka s velmi tenkou drobnou postavou zahalenou do nedrahého podivného šedého hábitu. Zásadně chodí bosky nebo v jednoduchých botách. Vysoká je okolo 172 cm, jistě celkem lehká, na věk vypadá tak na 20 let, ale věčně má kapuci svého myší hábitu vraženou do čela až tak, že se její oči schovávají, havraní černé vlasy se linou po ramenou nebo i zakrývají obličej. 
 

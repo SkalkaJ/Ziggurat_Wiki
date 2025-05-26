@@ -6,6 +6,5 @@ lokace: Redwill
 tags: 
 banner: 
 ---
-# Katár
-lokace: [[Redwill]]
+Lokace: [[Redwill]]
 ![[Katár.png]]

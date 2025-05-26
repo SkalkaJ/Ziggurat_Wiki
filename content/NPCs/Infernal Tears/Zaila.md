@@ -1,12 +1,11 @@
 ---
 type: NPC
 title: Zaila
-DM: 
+DM: Xerius
 lokace: 
 tags: 
 banner: 
 ---
-# Zaila
-lokace: [[Redwill]]
+Lokace: [[Redwill]]
 
 ![[Zaila.png]]
