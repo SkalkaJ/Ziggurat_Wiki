@@ -4,3 +4,4 @@ title: <% tp.file.title %>
 tags: 
 banner: 
 ---
+lokace:

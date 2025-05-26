@@ -6,3 +6,5 @@ lokace:
 tags: 
 banner: 
 ---
+# <% tp.file.title %>
+lokace:
