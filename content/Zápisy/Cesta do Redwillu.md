@@ -27,18 +27,4 @@ Potom ako sme sa dohodli a zlozili na cestu Harvianusovou lodou,za co chcel dost
 Po ceste sa Petr zahral aj na navnadu pre ryby, nakolko tvrdil, ze dokaze na jediny krat chytit az 6 ryb. Sice chytil iba jednu ale to nevadi vzhladom k tomu, že nemal pri sebe tolko jeho Elixiru, teda alkoholu.
 Ked sme dorazili uvideli sme ake velke je toto mesto. Zaroven sme zistili ze si tu pytaju aj nehorazne ceny, dokonca aj za vybavenie audiencie na otvorenie portalu. Samozrejme aj za jeho otvorenie na par mesiacov si zobrali 300 GP.
 
-## [[Provoz teleportačního kruhu Redwill | Shrnuté znění smlouvy (Xerius, DM)]]
-**(Shrnuté a zkontrolované) Znění smlouvy**:
-
-Věc: Provoz teleportačního kruhu
-Strana 1: Veleměsto Redwill, *Výbor pro teleportační cestovní ruch*
-Strana 2: Vermilionská pevnost Ziggurat, *generál Gabriel Goldheart*
-Doba provozu: 6 měsíců od 19.9. 2023 do 19.3. 2024
-Typ: Soukromé užívání; Max přesun 50 entit/ týden
-Poplatek 300gp: Uhrazeno v hotovosti
-Kód znají: Zprostředkovatelé; Výbor pro teleportační cestovní ruch veleměsta Redwill; Osoby určené stranou pevnosti Ziggurat
-
-*Smlouva je ukončena bez nutnosti oznámení straně pevnosti Ziggurat při jakékoliv situaci vedoucí k narušení bezpečnosti strany veleměsta Redwill. Posouzení povahy této situace je na Inspekčím týmu určeného Výborem pro teleportační cestovní ruch veleměsta Redwill. Při závažnější situaci mohou být Zprostředkovatelé strany pevnosti Ziggurat zatčeni.*
-
-Podpis zprostředkovatelů:
-Podepsáni *všichni hráči na výpravě* a *Grudno Kriggob, arcimág Redwillu*
+## ![[Provoz teleportačního kruhu Redwill | Shrnuté znění smlouvy (Xerius, DM)]]
